@@ -6,6 +6,6 @@ mediapipe
 pandas
 libgl1
 libgl1-mesa-glx
-scikit-learn==0.24.2 
+
 numpy==1.20.3
 
