@@ -4,3 +4,5 @@ imutils
 numpy 
 mediapipe
 pandas
+libgl1
+libgl1-mesa-glx
